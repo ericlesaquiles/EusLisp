@@ -16,8 +16,8 @@ EusLisp is an integrated programming system for the research on intelligent robo
 
 Please check http://github.com/euslisp/jskeus for easy binary installation and how to run current
 demo programs. Most of programs in EusLisp/lib/ EusLisp/contrib/ directories are outdated.
-The [manual](http://euslisp.github.io/EusLisp/manual.html) might contain some useful information
-as regards to installation as well (note, however, that some of its information might be outdated).
+
+#### Source Installation (Experts Only)
 
 Note: we strongly recommend you to check http://github.com/euslisp/jskeus for download and compile euslisp and irteus; humanoid model description and other useful function layer on euslisp. Following description is only for euslisp hard-core developers.
 
