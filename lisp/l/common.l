@@ -1197,4 +1197,4 @@ if pos is bigger than the length of list, item is nconc'ed at the tail"
  )
 |#
 
-
+(defvar err #'error)
